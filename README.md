@@ -1,1 +1,1 @@
-vd.atm
+This TypeScript/Node.js project is a console-based application. Upon system startup, the user is prompted to enter a user ID and user PIN. After successful authentication, the ATM functionalities are unlocked. All user data is randomly generated. 
